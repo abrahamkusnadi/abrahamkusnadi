@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 💼 **Currently Working:** Backend Developer Intern at **PT PhinCon**. My focus is on building automated reporting services, system integration (SFTP, Splunk), and ensuring software quality.
+- 💼 **Currently Working:** Backend Developer Intern at **PT PhinCon**. My focus is on building automated reporting services, system integration (SFTP, Splunk), ensuring software quality, and handling service orchestration (request routing) using **Go**.
 - 🏫 **Community & Leadership:** Backend Development Mentor at **BNCC**, teaching Laravel and MySQL.
 - 📱 **Current Project:** Developing **Kore**, a budget-based nutritional recommendation mobile application for my thesis.
-- 🌱 **Currently Expanding:** Advanced concepts in **Java, Go, JavaScript, Python, and SQL**.
+- 🌱 **Currently Expanding:** Advanced concepts in **Java (Spring Boot), Go (Gin), JavaScript, Python, and SQL**.
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun Fact:** I enjoy discussing new ideas, exploring tech trends, and solving complex, real-world technical challenges.
 
@@ -16,9 +16,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
-**💻 Languages & Frameworks**
+**💻 Languages**
 - Java, Go, Python, JavaScript, SQL
-- Laravel
+
+**📦 Frameworks**
+- Spring Boot, Gin, Laravel
 
 **🗄️ Databases**
 - MySQL, DBeaver
