@@ -21,7 +21,7 @@
 - 💼 **Current Industry Role:** Backend Developer Intern at **PT PhinCon (Phintraco Consulting)** — engineering enterprise microservices with **Go (Gin)** & **Java (Spring Boot WebFlux)**, asynchronous pipelines via **Apache Kafka**, automated SFTP extraction, and pre-production CI/CD pipelines.
 - 🏫 **Leadership & Mentorship:** Backend Development Mentor at **Bina Nusantara Computer Club (BNCC)** across consecutive cohorts (LnT 37 & 38), coaching 50+ mentees in **PHP (Laravel)**, RESTful API design, and MySQL database modeling.
 - 📱 **Current Research / Pre-Thesis:** Co-developing **KORE**, an AI-driven nutritional and calorie-intake estimation mobile application powered by **Computer Vision** and a **Go** backend.
-- 🏛️ **Campus Community:** Active organizer & contributor at **HIMTI BINUS** (Himpunan Mahasiswa Teknik Informatika).
+- 🏛️ **Campus Community: ** Was an active organizer & contributor at **HIMTI BINUS** (Himpunan Mahasiswa Teknik Informatika).
 - 🎓 **Education:** Computer Science undergraduate at **BINUS University @ Alam Sutera**.
 - 🎬 **Offline Interests:** Cinema enthusiast, casual gaming, and architectural discussions.
 
