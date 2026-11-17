@@ -89,15 +89,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamkusnadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abraham's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamkusnadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
----
-
 <div align="center">
   <sub>Let's connect and build something scalable together! 🤝</sub>
 </div>
